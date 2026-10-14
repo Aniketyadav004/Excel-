@@ -77,18 +77,18 @@ With interactive visuals and automated calculations, this dashboard helps busine
 
 
 📋 **Key Insights at glance**
-City-wise Orders
-Pune recorded the highest number of orders.
-Mumbai and Lucknow also contributed significantly to total orders.
-Restaurant Performance
-Barbeque Nation and Behrouz Biryani received the highest order counts.
-Restaurant ratings help identify customer satisfaction trends.
-Payment Preferences
-UPI emerged as the most preferred payment method.
-Digital payments dominated over cash transactions.
-Food Category Trends
-Chinese cuisine received the highest number of orders.
-Burger, Biryani, Pizza, and South Indian foods maintained strong demand.
+City-wise Orders,
+Pune recorded the highest number of orders,
+Mumbai and Lucknow also contributed significantly to total orders,
+Restaurant Performance,
+Barbeque Nation and Behrouz Biryani received the highest order counts,
+Restaurant ratings help identify customer satisfaction trends,
+Payment Preferences,
+UPI emerged as the most preferred payment method,
+Digital payments dominated over cash transactions,
+Food Category Trends,
+Chinese cuisine received the highest number of orders,
+Burger, Biryani, Pizza, and South Indian foods maintained strong demand,
 
 
 
